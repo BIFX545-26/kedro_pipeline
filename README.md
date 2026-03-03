@@ -1,7 +1,7 @@
 # GC Content Analysis
 
 [![Powered by Kedro](https://img.shields.io/badge/powered_by-kedro-ffc900?logo=kedro)](https://kedro.org)
-[![Powered by GitHub Copilot](https://img.shields.io/badge/powered_by-GitHub-Copilot-ffc900?logo=kedro)](https://github.com/features/copilot)
+[![Powered by GitHub Copilot](https://img.shields.io/badge/powered_by-GitHub_Copilot-ffc900?logo=kedro)](https://github.com/features/copilot)
 
 ## Overview
 
